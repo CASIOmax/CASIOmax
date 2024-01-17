@@ -14,6 +14,16 @@ I'm fluent in the languages of technology, including:
 🔷 HTML5  
 🔷 CSS3  
 🔷 JavaScript  
+🔷 SQL  
+
+### Tools
+
+I'm familiar to following tools:
+
+🔷 Cisco Packet Tracer
+🔷 Figma  
+🔷 Canva  
+🔷 Adobe Photoshop  
 
 ### Interests
 
