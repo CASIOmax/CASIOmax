@@ -18,13 +18,13 @@ I'm fluent in the languages of technology, including:
 
 ### Tools
 
-I'm familiar to following tools:
+I'm familiar with the following tools:
 
-🔷 Cisco Packet Tracer
-🔷 Figma
-🔷 Adobe Photoshop
-🔷 Canva
-🔷 Just in Mind
+- 🔷 Cisco Packet Tracer
+- 🔷 Figma
+- 🔷 Adobe Photoshop
+- 🔷 Canva
+- 🔷 Just in Mind
 
 ### Interests
 
