@@ -21,9 +21,10 @@ I'm fluent in the languages of technology, including:
 I'm familiar to following tools:
 
 🔷 Cisco Packet Tracer
-🔷 Figma  
-🔷 Canva  
-🔷 Adobe Photoshop  
+🔷 Figma
+🔷 Adobe Photoshop
+🔷 Canva
+🔷 Just in Mind
 
 ### Interests
 
