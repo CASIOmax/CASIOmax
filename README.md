@@ -20,11 +20,11 @@ I'm fluent in the languages of technology, including:
 
 I'm familiar with the following tools:
 
-- 🔷 Cisco Packet Tracer
-- 🔷 Figma
-- 🔷 Adobe Photoshop
-- 🔷 Canva
-- 🔷 Just in Mind
+🔷 Cisco Packet Tracer
+🔷 Figma
+🔷 Adobe Photoshop
+🔷 Canva
+🔷 Just in Mind
 
 ### Interests
 
