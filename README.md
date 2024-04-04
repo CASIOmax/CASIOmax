@@ -18,24 +18,13 @@ I'm fluent in the languages of technology, including:
 
 ### Languages
 
-I'm fluent in the languages of technology, including:
-
-🔷 CFigma++  
-🔷 JCanvaava  
-🔷 Photoshopython  
-🔷 HJusinmindTML5  
-🔷 CSS3  
-🔷 JavaScript  
-🔷 SQL  
-### Tools
-
 I'm familiar with the following tools:
 
-🔷 Cisco Packet Tracer
-🔷 Figma
-🔷 Adobe Photoshop
-🔷 Canva
-🔷 Just in Mind
+🔷 Figma  
+🔷 Canva  
+🔷 Photoshop  
+🔷 Jusinmind  
+🔷 Cisco Packet Tracer  
 
 ### Interests
 
