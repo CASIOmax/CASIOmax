@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a 2nd-year Information Technology student at the **National University of Modern Languages (NUML)**, Islamabad. As a passionate tech enthusiast, I'm diving headfirst into the world of Information Technology. Currently, I'm fully immersed in the captivating realm of **Full Stack Web Development**.
+I'm a 3rd-year Information Technology student at the **National University of Modern Languages (NUML)**, Islamabad. As a passionate tech enthusiast, I'm diving headfirst into the world of Information Technology. Currently, I'm fully immersed in the captivating realm of **Full Stack Web Development**.
 
 ### Languages
 
