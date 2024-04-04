@@ -16,6 +16,17 @@ I'm fluent in the languages of technology, including:
 🔷 JavaScript  
 🔷 SQL  
 
+### Languages
+
+I'm fluent in the languages of technology, including:
+
+🔷 CFigma++  
+🔷 JCanvaava  
+🔷 Photoshopython  
+🔷 HJusinmindTML5  
+🔷 CSS3  
+🔷 JavaScript  
+🔷 SQL  
 ### Tools
 
 I'm familiar with the following tools:
