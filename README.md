@@ -16,7 +16,7 @@ I'm fluent in the languages of technology, including:
 🔷 JavaScript  
 🔷 SQL  
 
-### Languages
+### Tools
 
 I'm familiar with the following tools:
 
