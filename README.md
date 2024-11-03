@@ -2,50 +2,53 @@
 
 ### About Me
 
-I'm a 3rd-year Information Technology student at the **National University of Modern Languages (NUML)**, Islamabad. As a passionate tech enthusiast, I'm diving headfirst into the world of Information Technology. Currently, I'm fully immersed in the captivating realm of **UX/UI Designing**.
+I'm a **Bachelor of Science in Information Technology** student at the **National University of Modern Languages (NUML)**, Islamabad. With a deep passion for technology, I'm exploring diverse fields, from **UX/UI Design** to **AI**. Currently, I'm building my skills as an **UX/UI intern at Ceven Technologies**.
 
-### Languages
+### Skills
 
-I'm fluent in the languages of technology, including:
+#### Programming Languages
+I'm proficient in:
 
 🔷 HTML5  
 🔷 CSS3  
-🔷 JavaScript 
+🔷 JavaScript  
 🔷 SQL  
 
-I'm familiar to:
+I'm also familiar with:
 
-🔷 C++ 
+🔷 C++  
 🔷 Java  
-🔷 Python 
-🔷 Dart 
-🔷 Kotlin
-🔷 PHP 
- 
-### Tools
+🔷 Python  
+🔷 Dart  
+🔷 Kotlin  
+🔷 PHP  
 
-I'm familiar with the following tools:
+#### Tools
+
+I'm experienced in:
 
 🔷 Figma  
 🔷 Canva  
 🔷 Adobe Photoshop  
-🔷 Adobe XD
-🔷 Adobe Illustrator
+🔷 Adobe XD  
+🔷 Adobe Illustrator  
 🔷 Cisco Packet Tracer  
 
 ### Interests
 
-I'm not just a coder; I'm an explorer of technology's frontiers. My interests include:
+I'm passionate about various areas in tech, including:
 
-🌐 **Web Development**: Crafting digital experiences with pixels and lines of code.  
-☁️ **Cloud Computing**: Harnessing the power of the cloud for scalability and innovation.  
-🛡️ **Cybersecurity**: Ensuring a secure and safe digital landscape for all.
+🌐 **Web Development**: Building engaging digital interfaces and experiences.  
+🎨 **Product Design**: Crafting user-centered, visually appealing designs.  
+☁️ **Cloud Computing**: Leveraging the cloud for innovation and scalability.  
+🧩 **Artificial Intelligence**: Diving into beginner-friendly projects on Azure to enhance my AI skills.  
+🛡️ **Cybersecurity**: Advocating for safe and secure digital environments.
 
 ### Connect with Me
 
-Let's connect, collaborate, and learn together:
+Let's connect and explore tech together:
 
 📧 Email: sajjadahmadawan819@gmail.com  
 👥 LinkedIn: [Sajjad Ahmad](https://www.linkedin.com/in/sajjad-it)
 
-Feel free to drop me a line or join me in exploring the limitless possibilities of the tech universe! 🚀
+Feel free to reach out—I’m always open to collaborations, networking, and sharing ideas in the world of tech! 🚀
