@@ -2,7 +2,7 @@
 
 ### About Me  
 
-I'm a **Bachelor of Science in Information Technology** student at the **National University of Modern Languages (NUML), Islamabad**. With a strong passion for technology and design, I'm currently working as a **UX/UI Designer at Centrox.AI**.
+I'm a **Bachelor of Science in Information Technology** student at the **National University of Modern Languages (NUML), Islamabad**. With a strong passion for technology and design, I'm currently working as a **Junior Creative Designer at Centrox.AI**.
 
 ### Skills  
 
